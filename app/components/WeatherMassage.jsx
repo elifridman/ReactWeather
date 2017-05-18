@@ -17,7 +17,7 @@ var React = require('react');
 //   );
 // }
 
-var WeatherMassage = (location,temp) =>{
+var WeatherMassage = ({location,temp}) =>{
   return(
     <h4> The Weather In {location} is {temp} degree </h4>
   );
