@@ -8,7 +8,7 @@ var React = require('react');
 //       <h4> The Weather In {location} is {temp} degree </h4>
 //     );
 //   }
-// });////////
+// });///////////aa
 
 // var WeatherMassage = (props) =>{
 //   var{location,temp}  = props;
